@@ -8,23 +8,21 @@ const data = {
         "By": {
             "name": "Chloe Oden",
             "email": "chloden@iu.edu",
-            "twitter": "todo",
-            "pfp": "todo",
-            "bio": "todo"
+            "twitter": "chloeoden0",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/967be0de-7edd-463c-a314-bf000b52ee7b.original.jpg",
+            "bio": "Chloe is a news editor and has worked at the IDS since 2024."
         },
         "Photos by": {
             "name": "Natalia Nelson",
             "email": "nelsonnb@iu.edu",
-            "pfp": "todo",
-            "bio": "todo",
-            "twitter": "todo"
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/62461a4c-7e6f-4ec8-8d2f-65011ee5c6c0.original.jpg",
+            "bio": "Natalia has worked at the IDS since 2024 and is an enterprise editor."
         },
         "Design and development by": {
             "name": "Lillie Donato",
             "email": "mdonato@iu.edu",
-            "twitter": "todo",
-            "pfp": "todo",
-            "bio": "todo"
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/892b8a83-4320-4435-804c-6eff0e6903eb.original.jpg",
+            "bio": "Lillie has worked at the IDS since 2026 on the digital desk."
         }
     }
 }
