@@ -1,39 +1,36 @@
 const data = {
     "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "slug": "New Leaf, New Life",
+    "headline": "‘We are more than what we have done’: How one Bloomington woman overcame addiction",
+    "title": "New Leaf, New Life",
+    "pub_date": "May 8, 2026",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Chloe Oden",
+            "email": "chloden@iu.edu",
+            "twitter": "todo",
+            "pfp": "todo",
+            "bio": "todo"
         },
         "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Natalia Nelson",
+            "email": "nelsonnb@iu.edu",
+            "pfp": "todo",
+            "bio": "todo",
+            "twitter": "todo"
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
-        },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
+            "name": "Lillie Donato",
+            "email": "mdonato@iu.edu",
+            "twitter": "todo",
+            "pfp": "todo",
+            "bio": "todo"
         }
     }
 }
 
 // bylines
-const byline_types = ["By", "Photos by", "Design and development by", "Graphics by"]
+const byline_types = ["By", "Photos by", "Design and development by"]
 let bylines_html = '';
 let bios_html = '';
 
